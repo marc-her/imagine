@@ -22,7 +22,7 @@ prof-pablofigueroa:
     bio: Associate Professor    
 
 prof-fernandodelarosa:
-    display_name: Prof Fernando De la Rosa Rosero
+    display_name: Prof  Fernando de la Rosa Rosero
     webpage: https://profesores.virtual.uniandes.edu.co/fde/en/inicio-en/
     role: faculty
     image: /img/people/foto_FernandodelaRosa.jpg 
@@ -114,18 +114,18 @@ ugrad-juanGuillermo:
     
 ugrad-rogeliogarcia:
     display_name: Rogelio Garcia
-    role: ugrad
+    role: alum
     image: /img/people/foto_RogelioGarcia.jpeg
 
 ugrad-margaritaGomez:
     display_name: Margarita Gómez Ballén
-    role: ugrad
+    role: alum
     webpage: https://margaritagomez.github.io/
     image: /img/people/foto_margaritaGomez.PNG 
 
 ugrad-camilaGarcia:
     display_name: Camila García Hernández
-    role: ugrad
+    role: alum
     webpage: http://cgarciahdez.github.io/
     image: /img/people/foto_camilaGarcia.png
 
@@ -134,6 +134,12 @@ ugrad-eduardoCabello:
     role: ugrad
     webpage: https://eacabello10.github.io/
     image: /img/people/foto_EduardoCabello10.jpg
+   
+ugrad-mauricioNeira:
+    display_name: Mauricio Neira Giraldo
+    role: ugrad
+    webpage: https://mneira.github.io/
+    image: /img/people/foto_mauricioNeira.jpg
 
 grad-diegorodriguez:
     display_name: Diego Rodríguez
@@ -146,7 +152,7 @@ grad-juanCamiloIbarra:
 
 grad-nycholBazurto:
     display_name: Nychol Bazurto
-    role: alum
+    role: grad
     webpage: http://nycholbazurto.me/
     image: /img/people/foto_nycholBazurto.jpeg
 
